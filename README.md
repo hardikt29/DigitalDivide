@@ -26,4 +26,6 @@ The digital divide causes economic inequality between those who can afford the t
 The digital divide is also impacting the capacity of children to learn and develop.
 Without Internet access, students can not build the required tech skills.
 
+### Made by Hardik Tiwari
+
  
