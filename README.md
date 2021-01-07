@@ -27,4 +27,4 @@ The digital divide is also impacting the capacity of children to learn and devel
 Without Internet access, students can not build the required tech skills.
 
 ### Made by Hardik Tiwari
-### Email: developer.web@gmail.com
+### Email: pro.developer.web@gmail.com
